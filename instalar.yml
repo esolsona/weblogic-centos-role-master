@@ -1,4 +1,4 @@
-- name: Instalar tomcat
+- name: Instalar weblogic
   hosts: all
   become: true
   roles: 
